@@ -113,6 +113,8 @@ A relevant follow-up study using the same dataset could examine the impact on th
 
 https://github.com/user-attachments/assets/804019d0-1ff4-4d4b-b88f-3b7bc9a56734
 
+![Raygun Rachel Gunn GIF](https://media.tenor.com/images/insert_the_gif_link_here.gif)
+
 Disclaimer – This work was generated with the help of AI tools to support the analysis, writing, and organization of content.
 
 All figures in this report are generated from the code provided in this repository.
