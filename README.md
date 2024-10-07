@@ -5,10 +5,10 @@
 The Olympic Games represent the cherry of global athletic competition, bringing together athletes representing their nation from around the world to compete in a diverse array of sports. This project aims to analyze the Olympic Games dataset to uncover patterns, trends, and insights from the historical data of these events, with the focus on our research question, which is: does the fact that a country hosts the Olympics, contributes to the number of medals it won? Our null hypothesis is that there is no difference in the number of medals won when hosting versus not hosting. By leveraging various data analysis techniques, we will explore the evolution of the Games, and the performance of different countries. Our analysis will provide a comprehensive overview of how the Olympic Games have developed over time and highlight some insights and fascinating discoveries we learned during the process.
 
 ### Method
-• The process of the analysis was as follows:
+* The process of the analysis was as follows:
 Searching for a reliable and comprehensive dataset.
 
-• Cleaning and organizing the data.
+* Cleaning and organizing the data.
 
 • Performing exploratory data analysis.
 
