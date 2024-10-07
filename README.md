@@ -5,57 +5,57 @@
 The Olympic Games represent the cherry of global athletic competition, bringing together athletes representing their nation from around the world to compete in a diverse array of sports. This project aims to analyze the Olympic Games dataset to uncover patterns, trends, and insights from the historical data of these events, with the focus on our research question, which is: does the fact that a country hosts the Olympics, contributes to the number of medals it won? Our null hypothesis is that there is no difference in the number of medals won when hosting versus not hosting. By leveraging various data analysis techniques, we will explore the evolution of the Games, and the performance of different countries. Our analysis will provide a comprehensive overview of how the Olympic Games have developed over time and highlight some insights and fascinating discoveries we learned during the process.
 
 ### Method
-* The process of the analysis was as follows:
-Searching for a reliable and comprehensive dataset.
+The process of the analysis was as follows:
+* Searching for a reliable and comprehensive dataset.
 
 * Cleaning and organizing the data.
 
-• Performing exploratory data analysis.
+* Performing exploratory data analysis.
 
-• Attempting to answer the research question.
+* Attempting to answer the research question.
 The data used in this research is “120 years of Olympic history: athletes and results” retrieved from Kaggle1. This dataset contains information about every individual athlete that participated in every Olympic. Each row in the dataset contains:
 
-• ID – Unique number for each athlete
+* ID – Unique number for each athlete
 
-• Name - Athlete's name
+* Name - Athlete's name
 
-• Sex - M or F
+* Sex - M or F
 
-• Age - Integer
+* Age - Integer
 
-• Height - In centimeters
+* Height - In centimeters
 
-• Weight - In kilograms
+* Weight - In kilograms
 
-• Team - Team name
+* Team - Team name
+  
+* NOC - National Olympic Committee 3-letter code
 
-• NOC - National Olympic Committee 3-letter code
+* Games - Year and season
 
-• Games - Year and season
+* Year - Integer
 
-• Year - Integer
+* Season - Summer or Winter
 
-• Season - Summer or Winter
+* City - Host city
 
-• City - Host city
+* Sport - Sport
 
-• Sport - Sport
+* Event - Event
 
-• Event - Event
+* Medal - Gold, Silver, Bronze, or NA
 
-• Medal - Gold, Silver, Bronze, or NA
-
-   * person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+*person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
 This is the raw data, we made several adjustments to facilitate analysis. During our analysis, we continuously identified imperfections in the data, prompting us to revisit and re-adjust the raw data. The adjustments we made are:
 
-• Removed all winter games, focusing solely on summer games.
+* Removed all winter games, focusing solely on summer games.
 
-• Merged medals for team sports (e.g. basketball) so that each medal counts as one per country, rather than one per athlete.
+* Merged medals for team sports (e.g. basketball) so that each medal counts as one per country, rather than one per athlete.
 
-• Excluded the 1906 Athens games, as they were not recognized by the International Olympic Committee (IOC).
+* Excluded the 1906 Athens games, as they were not recognized by the International Olympic Committee (IOC).
 
-• Addressed the 1956 Olympics, which were held in two cities, Melbourne and Stockholm. only equestrianism in Sweden. The dataset mistakenly duplicated the 1956 Olympics for two different host countries. We solved this by deleting the duplicates and attributing the host country of the equestrianism to Australia.
+* Addressed the 1956 Olympics, which were held in two cities, Melbourne and Stockholm. only equestrianism in Sweden. The dataset mistakenly duplicated the 1956 Olympics for two different host countries. We solved this by deleting the duplicates and attributing the host country of the equestrianism to Australia.
 
 ### Exploratory Data Analysis
 In this section, a basic overview of the data is presented, so we can get a better understanding of It, and to summarize the data main characteristics.
