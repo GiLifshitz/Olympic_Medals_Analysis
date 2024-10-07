@@ -111,9 +111,7 @@ While this study has demonstrated that hosting the Olympic Games is associated w
 It is important to note that during our work with the dataset, we encountered several inaccuracies, such as those found in the 1956 Olympic data, which are detailed in the Jupyter notebook containing the analysis code. Although we made efforts to identify and correct all errors, we cannot guarantee that every issue has been detected. Consequently, some of the results may be inaccurate. For any future, more in-depth research, a thorough review of the data's accuracy is recommended.
 A relevant follow-up study using the same dataset could examine the impact on the Winter Olympics, while another study using a different dataset could explore the effect on sports investment in host countries after the event.
 
-https://github.com/user-attachments/assets/804019d0-1ff4-4d4b-b88f-3b7bc9a56734
-
-![Raygun Rachel Gunn GIF](https://tenor.com/jlPEsdYCQJ2.gif)
+<img src="https://media.giphy.com/media/1tWa6agib0Vk9m7lDq/giphy.gif" alt="Olympics Breakdancing GIF" width="300">
 
 Disclaimer – This work was generated with the help of AI tools to support the analysis, writing, and organization of content.
 
