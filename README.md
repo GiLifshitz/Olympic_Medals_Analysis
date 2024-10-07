@@ -1,7 +1,7 @@
 # Olympic Games Medals Analysis Report
 ## Do host countries of the Olympic Games tend to win more medals?. Analysis Based on Residency Using Python
 
-![Olympics GIF](https://media.giphy.com/media/vwjfBggP3Q5vEdTx9H/giphy.gif)
+![Olympics GIF](<iframe src="https://giphy.com/embed/vwjfBggP3Q5vEdTx9H" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/olympicchannel-usa-olympics-vwjfBggP3Q5vEdTx9H">via GIPHY</a></p>)
 
 ### Introduction
 
