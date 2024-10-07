@@ -113,6 +113,8 @@ A relevant follow-up study using the same dataset could examine the impact on th
 
 <img src="https://media.giphy.com/media/JWDqWF0ByPlHMwQPNj/giphy.gif" alt="Fallon Tonight GIF" width="300">
 
+https://github.com/user-attachments/assets/9bad17bb-50c5-401f-b59b-0e26d0aba37d
+
 Disclaimer – This work was generated with the help of AI tools to support the analysis, writing, and organization of content.
 
 All figures in this report are generated from the code provided in this repository.
